@@ -25,7 +25,6 @@
   University of Computer Sciences (UCI), Havana, Cuba  
 - 💼 **Back-End Developer @ PICTA**, Parque Tecnológico de La Habana  
 - 🤝 **Freelance Developer** for local SMEs in Cuba  
-- 🌈 Proud member of the LGBT community  
 - 🔍 Always skeptical, curious, and straight-talking
 
 ---

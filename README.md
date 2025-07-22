@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Category     | Skills & Level                              |
 | ------------ | ------------------------------------------- |
@@ -29,4 +29,4 @@
 
 ## 🤝 Let’s Connect
 
-Feel free to open an issue or shoot me a message. I call things as I see them—no fluff, just code.  
+Feel free to open an issue or shoot me a message

@@ -44,10 +44,6 @@
 - ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=clean-architecture&logoColor=white)
 - ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
 
-### Tools & Others:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ## 🤝 Let’s Connect

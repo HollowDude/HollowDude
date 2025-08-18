@@ -68,3 +68,6 @@ Feel free to open an issue or shoot me a message c:
       <img height="180em" width = "50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HollowDude&layout=compact&langs_count=8&theme=radical"/>
     </a>
   </p>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HollowDude&style=flat-square&color=blue" alt="Profile Views"/>
+</div>

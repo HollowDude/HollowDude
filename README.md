@@ -21,26 +21,20 @@
 ---
 
 ## 💻 Tech Stack
+### Backend:
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![NestJs](https://img.shields.io/badge/Nest.Js-ED8B00?style=for-the-badge&logo=Nestjs&logoColor=red)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=blue)
+- ![Erlang](https://img.shields.io/badge/Erlang-20232A?style=for-the-badge&logo=erlang&logoColor=red)
 
 ### Frontend:
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![NextJs](https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=React&logoColor=EBEBEB)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-- ![Svelte](https://img.shields.io/badge/Svelte-20232A?style=for-the-badge&logo=svelte&logoColor=F54927)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend:
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![NestJs](https://img.shields.io/badge/Nest.Js-ED8B00?style=for-the-badge&logo=Nestjs&logoColor=red)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=blue)
-- ![NextJs](https://img.shields.io/badge/Erlang-20232A?style=for-the-badge&logo=erlang&logoColor=red)
 
 ### Databases:
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps:
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)

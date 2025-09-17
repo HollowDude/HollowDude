@@ -23,7 +23,6 @@
 ## 💻 Tech Stack
 ### Backend:
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![NestJs](https://img.shields.io/badge/Nest.Js-ED8B00?style=for-the-badge&logo=Nestjs&logoColor=red)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=blue)
 - ![Erlang](https://img.shields.io/badge/Erlang-20232A?style=for-the-badge&logo=erlang&logoColor=red)

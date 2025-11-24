@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/HollowDude">
-    <img src="https://img.shields.io/badge/GitHub-@HollowDude-181717?logo=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/xavier-verdecie-ramos-4a83a834a/">
+    <img src="https://img.shields.io/badge/LinkedIn-HollowDude-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
   <a href="mailto:verdecie.dev@gmail.com">

@@ -6,42 +6,38 @@
   <a href="mailto:verdecie.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-verdecie.dev%40gmail.com-D14836?logo=gmail" alt="Email" />
   </a>
+
+  <a href="https://t.me/HollowDude6">
+    <img src="https://img.shields.io/badge/Telegram-@HollowDude6-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-- 🎓 **Bachelor of Engineering in Computer Science**  
-  University of Computer Sciences (UCI), Havana, Cuba  
+- 🎓 **Bachelor of Engineering in Computer Science** University of Computer Sciences (UCI), Havana, Cuba  
 - 💼 **Back-End Developer**
-- 💼 **Front-End Developer** 
-- 🤝 **Freelance Developer**
+- 💼 **Front-End Developer** - 🤝 **Freelance Developer**
 
 ---
 
 ## 💻 Tech Stack
-### Backend:
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=blue)
-- ![Erlang](https://img.shields.io/badge/Erlang-20232A?style=for-the-badge&logo=erlang&logoColor=red)
 
-### Frontend:
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![NextJs](https://img.shields.io/badge/Next.Js-20232A?style=for-the-badge&logo=React&logoColor=EBEBEB)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Databases:
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps:
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Architecture & Testing:
-- ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=clean-architecture&logoColor=white)
-- ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-383838?style=for-the-badge&logo=clean-architecture&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-383838?style=for-the-badge&logo=microservices&logoColor=white)
 
 ---
 
